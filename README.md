@@ -9,6 +9,9 @@
  
  ## References:
  
+ https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901
+ 
+ 
  https://towardsdatascience.com/leveraging-the-power-of-jupyter-notebooks-26b4b8d7c622
  
  https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d
